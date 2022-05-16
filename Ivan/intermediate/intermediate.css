@@ -59,6 +59,12 @@ border-bottom: 1em solid black;
     width: 95%;
     align-self: end;
 }
+.line5 {
+  font-size: 0.7em;
+  text-align: end;
+  border-bottom: 0.2em solid black;
+  border-top: 0.5em solid black;
+}
 .line6 {
   font-size: 0.9em;
   display: flex;
@@ -152,11 +158,7 @@ border-bottom: 1em solid black;
     font-size: 0.7em;
 }
 
-.line5 {
-  text-align: end;
-  border-bottom: 0.2em solid black;
-  border-top: 0.5em solid black;
-}
+
 .t-b{
   font-weight: bold;
 }
