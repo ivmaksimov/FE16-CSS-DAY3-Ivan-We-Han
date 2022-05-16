@@ -1,5 +1,8 @@
 body {
   font-family: sans-serif;
+  display: flex;
+  
+  
 }
 p{
   margin: 0;
@@ -24,6 +27,7 @@ h1{
 
 }
 .first{
+  margin-top: -1em;
 border-bottom: 1em solid black;
 }
 .seccond {
