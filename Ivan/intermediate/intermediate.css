@@ -116,6 +116,9 @@ border-bottom: 1em solid black;
 .c{
   width: 40%;
 }
+.x{
+  width: 10%;
+}
 .one{
   width: 100%;
   display: flex;
